@@ -11,7 +11,7 @@
 
   | Target | Category | Issues Found | Severity | Date |
   |--------|----------|-------------|----------|------|
-  | [vercel/ai](audits/vercel-ai/) | AI SDK | — | — | Mar 2026 |
+  | [vercel/ai](audits/vercel-ai/) | AI SDK | 10,460 (17 critical) | Critical | Mar 2026 |
 
   ---
 
