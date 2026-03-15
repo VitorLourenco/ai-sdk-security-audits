@@ -161,7 +161,8 @@ In an agent loop context, one unhandled rejection can silently terminate a long-
 - Static analysis: [CodeSlick](https://codeslick.dev) (TypeScript analyzer, 64 security checks, OWASP 2025)
 - AI code detection: 164 signals (119 hallucination patterns, 32 LLM fingerprints, 13 heuristics)
 - Manual triage: findings reviewed and severity confirmed by hand
-- Raw output: `findings.json` in this directory
+- Scan command: `codeslick scan --all --json --quick` (run from repo root)
+- Raw output available on request
 
 ---
 
