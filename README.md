@@ -12,8 +12,7 @@
   | Target | Category | Issues Found | Severity | Date |
   |--------|----------|-------------|----------|------|
   | [vercel/ai](audits/vercel-ai/) | AI SDK | 10,460 (17 critical) | Critical | Mar 2026 |
-  | [langchain-ai/langchainjs](audits/langchainjs/) | Agent Framework | 8,650 (200 critical) | Critical | Mar 2026
-  |
+  | [langchain-ai/langchainjs](audits/langchainjs/) | Agent Framework | 8,650 (200 critical) | Critical | Mar 2026 |
   | [openai/openai-node](audits/openai-node/) | Official SDK | 1,105 (1 critical post-triage) | High | Mar 2026 |
 
   ---
